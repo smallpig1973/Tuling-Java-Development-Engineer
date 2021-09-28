@@ -12,8 +12,7 @@ Redis 线程 IO 分布式 微服务 ELK ActivateMQ Solr Lucene Activity 性能�
 
 ## 获取资源扫一扫二维码加我微信 获取
 
-<img src="https://user-images.githubusercontent.com/91378327/135028620-15ddbf0e-fad3-4579-9fc5-54760c14e43b.jpg" alt="微信：cowcow2100 " style="zoom:33%;" />
-
+![微信-cowcow2100](https://user-images.githubusercontent.com/91378327/135029392-2389f46a-835a-41b1-9d28-e5ab50bb42d9.png)
 
 百度网盘下载地址：
 链接：https://pan.baidu.com/s/1YBRmnKnLcScmtDylq7Swew 
