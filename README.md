@@ -9,7 +9,10 @@ Redis 线程 IO 分布式 微服务 ELK ActivateMQ Solr Lucene Activity 性能�
 ![image](https://user-images.githubusercontent.com/91378327/135028196-d5ca9dca-fb3c-4ec4-bc2c-40f89e2f4951.png)
 ![image](https://user-images.githubusercontent.com/91378327/135028217-cd5f7e8b-8582-4c72-bad9-656675d2a1e7.png)
 ![image](https://user-images.githubusercontent.com/91378327/135028238-448ad65e-8f72-46df-aaba-c7e8dce455c0.png)
-![QQ-2902839937](https://user-images.githubusercontent.com/91378327/135027078-78c4d8ca-fbb4-4e2c-9ede-437824a76a90.png)  ![微信：cowcow2100](https://user-images.githubusercontent.com/91378327/135028620-15ddbf0e-fad3-4579-9fc5-54760c14e43b.jpg)
+
+## 扫一扫二维码加我微信
+
+![微信：cowcow2100](https://user-images.githubusercontent.com/91378327/135028620-15ddbf0e-fad3-4579-9fc5-54760c14e43b.jpg)
 
 
 
